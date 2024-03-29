@@ -1,0 +1,228 @@
+.back
+{
+    background-image: url("coding.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.black
+{
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    height: 30%;
+}
+.sky
+{
+    height:10px;
+    width:7%;
+    background-color: deepskyblue;
+    position: relative;
+    left:6.8%;
+    top:19px;
+}
+.u
+{
+    font-size:100px;
+    color: white;
+    position: relative;
+    left:6%;
+    bottom: 10px;
+}
+.trend
+{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left:6%;
+    top:-30px;
+}
+.soft
+{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left:6%;
+    top:-60px;
+}
+.gray
+{
+    background-color: rgba(128,128,128,0.2);
+   padding:5%;
+    color:white;
+}
+.square-bullets
+{
+    color:white;
+    font-size: 40px;
+    list-style-type: none;
+}
+.square-bullets li
+{
+ text-align: right;
+}
+.square-bullets li::after
+{
+    content:"\25A0";
+    margin-left:20px;
+}
+.yellow
+{
+    
+    background-color:rgba(255,211,25,0.7);
+    color: white;
+    padding: 2%;
+    padding-left: 6%;
+}
+.learn
+{
+    font-size:80px;
+    position: relative;
+    top:3%;
+}
+.pro
+{
+    font-size:70px;
+    position: relative;
+    top:-15%;
+}
+.add
+{
+    background-color: rgba(0, 0, 0, 0.2);
+    color: white;
+    text-align: right;
+    padding: 3%;
+    font-size: 22px;
+}
+.white
+{
+    background-color: white;
+    font-size: 50px;
+}
+.red
+{
+   color: red;
+   padding-left: 8%;
+   font-size: 65px;
+}
+.start
+{
+    color: gray;
+    padding-left: 8%;
+    position: relative;
+    bottom: 11%;
+}
+.month
+{
+    color: gray;
+    padding-left: 8%;
+    font-size: 30px;
+     position: relative;
+    bottom: 17%;
+
+}
+.blue
+{
+    background-color:deepskyblue;
+    color: white;
+    padding-top: 7%;
+    padding-left: 4%;
+}
+.image
+{
+    height: 60%;
+    width: 25%;
+    position: relative;
+    top:-14%;
+}
+.ded
+{
+    font-size: 35px;
+    position: relative;
+    
+}
+.logo
+{
+    position: relative;
+    top:-35px;
+    left:26%;
+}
+.our
+{
+    background-color: rgba(128,128,128,0.1);
+    border-bottom: 6px solid red;
+}
+.company
+{
+    color: red;
+    font-size: 25px;
+    position: relative;
+    top:6%;
+    left:8%;
+}
+.co
+{
+    color: rgb(128,128,128);
+    font-size: 65px;
+    position: relative;
+    top:2%;
+    left:8%;
+}
+.dot
+{
+    position: relative;
+    left:8%;
+    top:-5%;
+    font-size: 26px;
+    color:rgb(128,128,128) ;
+}
+.lorem
+{
+    color: rgb(128,128,128);
+    position: relative;
+    left:8%;
+    font-size:25px;
+}
+.ispum
+{
+    padding-left: 8%;
+    text-align: justify;
+}
+.trophy
+{
+    background-color: white;
+    text-align: right;
+    padding: 5%;
+
+}
+.sea
+{
+    color:deepskyblue;
+    font-size: 65px;
+    
+   }
+.end
+{
+    color: rgb(128,128,128);
+    font-size: 35px;
+    position: relative;
+    bottom: 4%;
+}
+.reward
+{
+ height:25%;
+ width: 30%;
+ position: relative;
+    bottom:7%;
+ }
+.your
+{
+    color:rgb(128,128,128);
+    position: relative;
+    bottom:7%;
+    font-size: 28px;
+}
+.last
+{
+    text-align: justify;
+    position: relative;
+    bottom:11%;
+}
